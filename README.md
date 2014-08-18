@@ -11,3 +11,5 @@ The project is designed so that it can create and manage competitions.
 If you use the database.sql database you can log in as an admin with the username orokhan and the password 123.
 If not you have to create an administrator account manually through the database.
 You also have to create the first competition manually throught the database but you can later edit it through SORS.
+
+The code on this project is better than that of Borsa but it's still unorganized and definately not following the SOLID principles.
