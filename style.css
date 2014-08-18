@@ -1,0 +1,28 @@
+body{
+    font-family: Arial;    
+}
+#menu{
+    width: 80%;
+    text-align: center;
+    height: 650px;
+    margin: 0 auto;
+}
+.css_right { float: right; }
+.css_left { float: left; }
+header{
+    width: 80.5%;
+    margin: 0 auto;
+    text-align: center;
+    font-family: Comic Sans MS, Arial;
+}
+footer{
+    margin: 0 auto;
+    text-align: center;
+    width: 80%;
+}
+input, select{
+	width: 200px;
+}
+#datatable{
+    font-size: medium;
+}
